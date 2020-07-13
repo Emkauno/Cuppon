@@ -7,6 +7,13 @@ html {
     height: 62px;
 }
 
+.navbar-brand img {
+	width: 86px;
+}
+
+.footer-logo {
+	width: 82px;
+}
 .text-dark-gray {
 	color: #212529
 }
